@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://eqasim-org.github.io/eqasim-website/sitemap.xml
+Sitemap: https://eqasim.org/sitemap.xml
