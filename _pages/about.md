@@ -2,33 +2,51 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: #<a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: # prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  more_info:
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+The *eqasim* framework helps you set up agent-based transport simulations based on [MATSim](https://matsim.org/) in a standardized way.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+<img style="width: 220px; float: right; clear: right; display: block; margin-left: 10px;" src="{{ site.baseurl }}/assets/img/synpop.png" alt="Synthetic population" />
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+**Synthetic populations** are an important input to agent-based transport simulations, and *eqasim* provides processes based on open data and software to generate *households*, *persons*, and *daily activity chains* for a variety of regions:
+
+- Any region or department in **[France](https://github.com/eqasim-org/ile-de-france)**
+- The **[Sao Paulo](https://github.com/eqasim-org/sao_paulo)** Metropolitan region
+- Any place in **[California](https://github.com/eqasim-org/california)**
+- All **[Bavaria](https://github.com/eqasim-org/bavaria)** or smaller parts such as Munich
+
+Read more about **[eqasim-synpop]({{ site.baseurl }}/synpop)**!
+
+<video width="220" style="float: right; clear: right; display: block; margin-left: 10px;" autoplay muted>
+  <source src="{{ site.baseurl }}/assets/video/simulation.mp4" type="video/mp4">
+  Video of an agent-based simulation
+</video> 
+
+**Agent-based simulations** allow to explore new technologies, modes of transport, public policies, social trends and more including their economic, ecological and social impacts. We provide a streamlined distribution of the [MATSim](https://matsim.org/) framework with a couple of individual improvements and simplification to quickly bootstrap such an agent-based simulation for the cases cited above.
+
+Read more about **[eqasim-java]({{ site.baseurl }}/java)**!
+
+<h2>News</h2>
+<div style="width: 70%">
+  {% include news.liquid %}
+</div>
