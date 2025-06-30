@@ -42,7 +42,7 @@ Read more about **[eqasim-synpop]({{ site.baseurl }}/synpop)**!
   Video of an agent-based simulation
 </video> 
 
-**Agent-based simulations** allow to explore new technologies, modes of transport, public policies, social trends and more including their economic, ecological and social impacts. We provide a streamlined distribution of the [MATSim](https://matsim.org/) framework with a couple of individual improvements and simplification to quickly bootstrap such an agent-based simulation for the cases cited above.
+**Agent-based simulations** allow to explore new technologies, modes of transport, public policies, social trends and more including their economic, ecological and social impacts. We provide a streamlined distribution of the [MATSim](https://matsim.org/) framework with a couple of individual improvements and simplifications to quickly bootstrap such an agent-based simulation for the cases cited above.
 
 Read more about **[eqasim-java]({{ site.baseurl }}/java)**!
 
