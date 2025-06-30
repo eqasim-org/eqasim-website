@@ -34,6 +34,8 @@ The *eqasim* framework helps you set up agent-based transport simulations based 
 - The **[Sao Paulo](https://github.com/eqasim-org/sao_paulo)** Metropolitan region
 - Any place in **[California](https://github.com/eqasim-org/california)**
 - All **[Bavaria](https://github.com/eqasim-org/bavaria)** or smaller parts such as Munich
+- **[Switzerland](https://gitlab.ethz.ch/ivt-vpl/populations/ch-zh-synpop)** which is currently only partly built using open-data
+
 
 Read more about **[eqasim-synpop]({{ site.baseurl }}/synpop)**!
 
