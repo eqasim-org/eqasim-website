@@ -40,7 +40,7 @@ The project is mainly maintained and developed further by the entities listed he
     </p>
 </div>
 
-<h3>Resarch & industry users</h3>
+<h3>Research & industry users</h3>
 
 The framework has been used and applied in research and industry projects by the actors below.
 
