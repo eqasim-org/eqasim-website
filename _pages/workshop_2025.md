@@ -34,7 +34,7 @@ nav: false
 
 <h3>Registration</h3>
 
-Please <b>register for the workshop</b> (link coming soon), even if you participate remotely and spontaneously during the event.
+Please <b><a href="https://framaforms.org/eqasim-workshop-2025-1758281587">register for the workshop</a></b>, even if you participate remotely and spontaneously during the event.
 
 <h3>Agenda</h3>
 
