@@ -20,14 +20,14 @@ nav: false
     </tr><tr>
         <td>Access:</td>
         <td>
-            Massy TGV - Bus <span style="display: inline-block; border-radius: 2px; background-color: rgb(60, 120, 216); color: black;">4606</span> direction Christ de Saclay to <b>Moulon</b><br />
-            Massy / Paris - <span style="display: inline-block; border-radius: 2px; background-color: rgb(60, 120, 216); color: white;">RER B</span> to Le Guichet - bus <span style="display: inline-block; border-radius: 2px; background-color: rgb(204, 0, 0); color: white;">4609</span> direction HEC / Christ Saclay to <b>Moulon</b>
+            Massy TGV - Bus <span style="display: inline-block; border-radius: 2px; background-color: rgb(60, 120, 216); color: white; padding-left: 3px; padding-right: 3px;">4606</span> direction Christ de Saclay to <b>Moulon</b><br />
+            Massy / Paris - <span style="display: inline-block; border-radius: 2px; background-color: rgb(60, 120, 216); color: white; padding-left: 3px; padding-right: 3px;">RER B</span> to Le Guichet - Bus <span style="display: inline-block; border-radius: 2px; background-color: rgb(204, 0, 0); color: white; padding-left: 3px; padding-right: 3px;">4609</span> direction HEC / Christ Saclay to <b>Moulon</b>
         </td>
     </tr><tr>
         <td>Connection:</td>
         <td>
-            <b>Remote participation on Teams</b><br />
-            Link will be announced here
+            <b><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_M2U5MTg5M2MtNDZjOC00MzE5LTkzNTItZTVmM2U5ZmYyODcx%40thread.v2/0?context=%7b%22Tid%22%3a%22efbb4c7c-8ac1-416d-bf30-791be86aad0b%22%2c%22Oid%22%3a%220cbb83db-2cdc-46a3-9e71-816f67d94b39%22%7d">Remote participation on Teams</a></b>
+            ID: 333 366 269 443 3, Passcode: V9Jo2uV6
         </td>
     </tr>
 </table>
