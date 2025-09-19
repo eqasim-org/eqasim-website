@@ -7,7 +7,7 @@ nav: false
 
 <h2>The eqasim workshop 2025</h2>
 
-<table class="workshop-info">
+<table class="workshop-info" style="margin-bottom: 10px;">
     <tr>
         <td>When:</td>
         <td>8 December 2025, 10h00 - 16h00</td>
@@ -31,7 +31,7 @@ nav: false
         </td>
     </tr>
 </table>
-<br />
+
 <h3>Registration</h3>
 
 Please <b><a href="https://framaforms.org/eqasim-workshop-2025-1758281587">register for the workshop</a></b>, even if you participate remotely and spontaneously during the event.
