@@ -1417,3 +1417,23 @@ figure.cover {
     color: #23212d !important;
   }
 }
+
+table.agenda {
+  border: 0px solid black;
+
+  td, th {
+    border: 0px solid black;
+  }
+
+  th {
+    background-color: rgb(200, 200, 200);
+  }
+}
+
+table.workshop-info {
+  border: 0px solid black;
+
+  td, th {
+    border: 0px solid black;
+  }
+}
