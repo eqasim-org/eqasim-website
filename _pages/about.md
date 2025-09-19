@@ -24,6 +24,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+<div style="color: rgb(102, 77, 3); background-color: rgb(255, 243, 205); border: 1px solid rgb(255, 230, 156); border-radius: 5px; width: 100%; margin-bottom: 5px; padding: 5px;">
+  The <em><a href="{{ site.baseurl }}/workshop-2025">eqasim workshop 2025</a></em> will take place on 8 December.
+</div>
+
 The *eqasim* framework helps you set up agent-based transport simulations based on [MATSim](https://matsim.org/) in a standardized way.
 
 <img style="width: 220px; float: right; clear: right; display: block; margin-left: 10px;" src="{{ site.baseurl }}/assets/img/synpop.png" alt="Synthetic population" />
@@ -48,7 +52,7 @@ Read more about **[eqasim-synpop]({{ site.baseurl }}/synpop)**!
 
 Read more about **[eqasim-java]({{ site.baseurl }}/java)**!
 
-<h2>News</h2>
+<!--<h2>News</h2>
 <div style="width: 70%">
   {% include news.liquid %}
-</div>
+</div>-->
