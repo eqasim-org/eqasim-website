@@ -10,7 +10,7 @@ show_header: false
 
 <h3>International</h3>
 
-**The eqasim workshop** is organized every year in November by IRT SystemX to discuss the roadmap and latest developments around *eqasim*.
+**[The eqasim workshop]({{ site.baseurl }}/workshop-2025)** is organized every year in November by IRT SystemX to discuss the roadmap and latest developments around *eqasim*.
 
 <h3>French (mostly)</h3>
 
