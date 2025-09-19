@@ -1424,12 +1424,11 @@ table.agenda {
   td, th {
     border: 0px solid black;
     vertical-align: top;
-    padding: 3px;
   }
 
   th {
     background-color: rgb(220, 220, 220);
-    font-weight: normal;
+    font-weight: bold;
   }
 }
 
@@ -1439,6 +1438,5 @@ table.workshop-info {
   td, th {
     border: 0px solid black;
     vertical-align: top;
-    padding: 3px;
   }
 }
