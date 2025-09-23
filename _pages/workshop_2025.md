@@ -34,13 +34,13 @@ nav: false
 
 <h3>Registration</h3>
 
-Please <b><a href="https://framaforms.org/eqasim-workshop-2025-1758281587">register for the workshop</a></b>, even if you participate remotely and spontaneously during the event.
+Please <b><a href="https://framaforms.org/eqasim-workshop-2025-1758281587">register for the workshop</a></b>, even if you participate remotely and spontaneously during the event. Please register <em>before 3 November</em> for on-site participation.
 
 <h3>Agenda</h3>
 
 <table class="agenda">
     <tr>
-        <th>10h00 - 10h15</th>
+        <th>10h00 - 10h30</th>
         <th></th>
         <th><b>Introduction</b></th>
     </tr>
@@ -49,29 +49,34 @@ Please <b><a href="https://framaforms.org/eqasim-workshop-2025-1758281587">regis
         <td>IRT SystemX</td>
         <td>
             - Statistics<br />
-            - Recent bugfixes / changes<br />
+            - Recent bugfixes / updates<br />
             - Roadmap / documentation
         </td>
     </tr>
     <tr>
-        <th>10h15 - 11h00</th>
+        <th>10h30 - 12h00</th>
         <th></th>
-        <th><b>Slot 1</b></th>
+        <th><b>Ongoing developments</b></th>
     </tr>
     <tr>
         <td></td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <th>11h00 - 12h00</th>
-        <th></th>
-        <th><b>Slot 2</b></th>
+        <td>CY Cergy</td>
+        <td>MobiSurvStd: A tool to standardize French mobility survey datasets</td>
     </tr>
     <tr>
         <td></td>
+        <td>IRT SystemX</td>
+        <td>A standard baseline MATSim simulation for eqasim</td>
+    </tr>
+    <tr>
         <td></td>
+        <td>Université Gustave Eiffel</td>
+        <td>Modeling motorcycles in eqasim</td>
+    </tr>
+    <tr>
         <td></td>
+        <td>ETH Zurich</td>
+        <td>Advances on eqasim for Switzerland</td>
     </tr>
     <tr>
         <th>12h00 - 13h00</th>
@@ -79,32 +84,32 @@ Please <b><a href="https://framaforms.org/eqasim-workshop-2025-1758281587">regis
         <th><b>Light lunch</b></th>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
         <th>13h00 - 14h00</th>
         <th></th>
-        <th><b>Slot 3</b></th>
+        <th><b>Use cases</b></th>
+    </tr>
+    <!--tr>
+        <td></td>
+        <td>EDF / SMACH</td>
+        <td>Synthetic populations for household energy consumption</td>
+    </tr-->
+    <!--tr>
+        <td></td>
+        <td>AirBreizh</td>
+        <td>The use of eqasim in air quality assessment</td>
+    </tr-->
+    <tr>
+        <td></td>
+        <td>tentative</td>
+        <td>Synthetic populations for household energy consumption</td>
     </tr>
     <tr>
         <td></td>
-        <td></td>
-        <td></td>
+        <td>tentative</td>
+        <td>The use of eqasim in air quality assessment</td>
     </tr>
     <tr>
-        <th>14h00 - 15h30</th>
-        <th></th>
-        <th><b>Slot 4</b></th>
-    </tr>
-    <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <th>15h30 - end</th>
+        <th>14h00 - end</th>
         <th></th>
         <th><b>Discussion</b></th>
     </tr>
@@ -112,7 +117,7 @@ Please <b><a href="https://framaforms.org/eqasim-workshop-2025-1758281587">regis
         <td></td>
         <td>all</td>
         <td>
-            - Open discussion on next steps, opportunities for collaboration, how to contribute, etc.
+            Open discussion on next steps, opportunities for collaboration, how to contribute, etc.
         </td>
     </tr>
 </table>
