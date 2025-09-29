@@ -83,20 +83,12 @@ Please <b><a href="https://framaforms.org/eqasim-workshop-2025-1758281587">regis
         <th>13h00 - 14h00</th>
         <th><b>Use cases</b></th>
     </tr>
-    <!--tr>
-        <td>EDF / SMACH</td>
-        <td>Synthetic populations for household energy consumption</td>
-    </tr-->
-    <!--tr>
-        <td>AirBreizh</td>
-        <td>The use of eqasim in air quality assessment</td>
-    </tr-->
     <tr>
-        <td>tentative</td>
+        <td>EDF / SMACH</td>
         <td>Synthetic populations for household energy consumption</td>
     </tr>
     <tr>
-        <td>tentative</td>
+        <td>AirBreizh</td>
         <td>The use of eqasim in air quality assessment</td>
     </tr>
     <tr>
