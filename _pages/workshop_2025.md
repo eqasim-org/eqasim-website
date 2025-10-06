@@ -14,7 +14,7 @@ nav: false
     </tr><tr>
         <td>Where:</td>
         <td>
-            IRT SystemX Palaiseau <span stlye="color:rgb(100, 0, 0); font-size: 70%;">(different site than last year!)</span><br />
+            IRT SystemX Palaiseau <span style="color:rgb(100, 0, 0); font-size: 70%;">(different site than last year!)</span><br />
             <a href="https://maps.app.goo.gl/YM1LKaqVdUonu1MV7">2 boulevard Thomas Gobert, F-91120, Palaiseau</a><br />
         </td>
     </tr><tr>
@@ -77,7 +77,7 @@ Please <b><a href="https://framaforms.org/eqasim-workshop-2025-1758281587">regis
     </tr>
     <tr>
         <th><span style="font-size: 20%">&nbsp;</span></th>
-        <th></th>
+        <th><span style="font-size: 20%">&nbsp;</span></th>
     </tr>
     <tr>
         <th>13h00 - 14h00</th>
