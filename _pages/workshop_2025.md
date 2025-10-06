@@ -14,14 +14,13 @@ nav: false
     </tr><tr>
         <td>Where:</td>
         <td>
-            IRT SystemX<br />
+            IRT SystemX Palaiseau <span stlye="color:rgb(100, 0, 0); font-size: 70%;">(different site than last year!)</span><br />
             <a href="https://maps.app.goo.gl/YM1LKaqVdUonu1MV7">2 boulevard Thomas Gobert, F-91120, Palaiseau</a><br />
-            <span stlye="color:red; font-size: 70%;">-(different than last year!)</span>
         </td>
     </tr><tr>
         <td>Access:</td>
         <td>
-            Massy TGV - Bus <span style="display: inline-block; border-radius: 2px; background-color: rgb(60, 120, 216); color: white; padding-left: 3px; padding-right: 3px;">4606</span> direction Christ de Saclay to <b>Ferme de la Vauve</b><br />
+            From Massy TGV, bus <b>4606</b> direction Christ de Saclay to <b>Ferme de la Vauve</b><br />
             Check the <a href="https://maps.app.goo.gl/YM1LKaqVdUonu1MV7">map</a> for the exact location o f the entrance.
         </td>
     </tr><tr>
@@ -77,7 +76,7 @@ Please <b><a href="https://framaforms.org/eqasim-workshop-2025-1758281587">regis
         <th><b>Light lunch</b></th>
     </tr>
     <tr>
-        <th></th>
+        <th><span style="font-size: 20%">&nbsp;</span></th>
         <th></th>
     </tr>
     <tr>
