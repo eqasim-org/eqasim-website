@@ -46,9 +46,10 @@ Please <b><a href="https://framaforms.org/eqasim-workshop-2025-1758281587">regis
     <tr>
         <td>IRT SystemX</td>
         <td>
-            - Statistics<br />
+            - Introduction<br />
             - Recent bugfixes / updates<br />
-            - Roadmap / documentation
+            - Roadmap / documentation<br />
+            - Modularity
         </td>
     </tr>
     <tr>
@@ -64,8 +65,8 @@ Please <b><a href="https://framaforms.org/eqasim-workshop-2025-1758281587">regis
         <td>A standard baseline MATSim simulation for eqasim</td>
     </tr>
     <tr>
-        <td>Université Gustave Eiffel</td>
-        <td>Modeling motorcycles in eqasim</td>
+        <td>IFP energies nouvelles</td>
+        <td>Weekly activity schedules in eqasim</td>
     </tr>
     <tr>
         <td>ETH Zurich</td>
@@ -74,10 +75,6 @@ Please <b><a href="https://framaforms.org/eqasim-workshop-2025-1758281587">regis
     <tr>
         <th>12h00 - 13h00</th>
         <th><b>Light lunch</b></th>
-    </tr>
-    <tr>
-        <th><span style="font-size: 20%">&nbsp;</span></th>
-        <th><span style="font-size: 20%">&nbsp;</span></th>
     </tr>
     <tr>
         <th>13h00 - 14h00</th>
