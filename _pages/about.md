@@ -26,15 +26,15 @@ latest_posts:
 
 The *eqasim* framework helps you set up agent-based transport simulations based on [MATSim](https://matsim.org/) in a standardized way.
 
-<div style="color: rgb(102, 77, 3); background-color: rgb(255, 243, 205); border: 1px solid rgb(255, 230, 156); border-radius: 5px; margin-bottom: 10px; margin-top: 10px; padding: 10px;">
+<!--div style="color: rgb(102, 77, 3); background-color: rgb(255, 243, 205); border: 1px solid rgb(255, 230, 156); border-radius: 5px; margin-bottom: 10px; margin-top: 10px; padding: 10px;">
   The <strong><a href="{{ site.baseurl }}/workshop-2025">eqasim workshop 2025</a></strong> will take place on 8 December at IRT SystemX close to Paris.
-</div>
+</div-->
 
 <img style="width: 220px; float: right; clear: right; display: block; margin-left: 10px;" src="{{ site.baseurl }}/assets/img/synpop.png" alt="Synthetic population" />
 
 **Synthetic populations** are an important input to agent-based transport simulations, and *eqasim* provides processes based on open data and software to generate *households*, *persons*, and *daily activity chains* for a variety of regions:
 
-- Any region or department in **[France](https://github.com/eqasim-org/ile-de-france)**
+- Any region or department in **[France](https://github.com/eqasim-org/eqasim-france)**
 - The **[Sao Paulo](https://github.com/eqasim-org/sao_paulo)** Metropolitan region
 - Any place in **[California](https://github.com/eqasim-org/california)**
 - All **[Bavaria](https://github.com/eqasim-org/bavaria)** or smaller parts such as Munich
