@@ -10,7 +10,11 @@ show_header: false
 
 <h3>International</h3>
 
-**[The eqasim workshop]({{ site.baseurl }}/workshop-2025)** is organized every year in November by IRT SystemX to discuss the roadmap and latest developments around *eqasim*.
+**[The eqasim workshop]({{ site.baseurl }}/workshop-2025)** is organized every year by IRT SystemX to discuss the roadmap and latest developments around *eqasim*. The last workshop took place on **8 December 2025**.
+
+- <a href="{{ site.baseurl }}/workshop-2025">eqasim workshop 2025</a>
+- <a href="{{ site.baseurl }}/assets/files/eqasim_workshop_2024.pdf">eqasim workshop 2024</a>
+- eqasim workshop 2023 (October 2023)
 
 <h3>French (mostly)</h3>
 

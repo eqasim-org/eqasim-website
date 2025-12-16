@@ -12,4 +12,4 @@ nav_order: 3
 - The use of *discrete choice models* for decision-making instead of the co-evolutionary scoring approach.
 - The use of *volume delay function* traffic dynamcis instead of the detailed queue dynamics implemented in standard MATSim.
 
-For the time being, have a look at the <a href="https://github.com/eqasim-org/ile-de-france">eqasim-java repository</a> which contains all the relevant code and some documentation.
+For the time being, have a look at the <a href="https://github.com/eqasim-org/eqasim-java">eqasim-java repository</a> which contains all the relevant code and some documentation.

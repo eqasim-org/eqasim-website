@@ -26,7 +26,7 @@ nav: false
     </tr><tr>
         <td>Connection:</td>
         <td>
-            <b><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_M2U5MTg5M2MtNDZjOC00MzE5LTkzNTItZTVmM2U5ZmYyODcx%40thread.v2/0?context=%7b%22Tid%22%3a%22efbb4c7c-8ac1-416d-bf30-791be86aad0b%22%2c%22Oid%22%3a%220cbb83db-2cdc-46a3-9e71-816f67d94b39%22%7d">Remote participation on Teams</a></b><br />
+            <b>Remote participation on Teams</b><br />
             ID: 333 366 269 443 3, Passcode: V9Jo2uV6
         </td>
     </tr>
@@ -34,7 +34,7 @@ nav: false
 
 <h3>Registration</h3>
 
-Please <b><a href="https://framaforms.org/eqasim-workshop-2025-1758281587">register for the workshop</a></b>, even if you participate remotely and spontaneously during the event. Please register <em>before 3 November</em> for on-site participation.
+Please <b>register for the workshop</b>, even if you participate remotely and spontaneously during the event. Please register <em>before 3 November</em> for on-site participation.
 
 <h3>Agenda</h3>
 
@@ -44,7 +44,7 @@ Please <b><a href="https://framaforms.org/eqasim-workshop-2025-1758281587">regis
         <th><b>Introduction</b></th>
     </tr>
     <tr>
-        <td>IRT SystemX</td>
+        <td>IRT SystemX (<a href="https://slides.com/sebastianhorl/eqasim-workshop-dec25">Link</a>)</td>
         <td>
             - Introduction<br />
             - Recent bugfixes / updates<br />
@@ -58,11 +58,11 @@ Please <b><a href="https://framaforms.org/eqasim-workshop-2025-1758281587">regis
     </tr>
     <tr>
         <td>CY Cergy</td>
-        <td>MobiSurvStd: A tool to standardize French mobility survey datasets</td>
+        <td>MobiSurvStd: A tool to standardize French mobility survey datasets (<a href="{{ site.baseurl }}/assets/files/eqasim_workshop_2025_cy.pdf">Link</a>)</td>
     </tr>
     <tr>
         <td>IRT SystemX</td>
-        <td>A standard baseline MATSim simulation for eqasim</td>
+        <td>A standard baseline MATSim simulation for eqasim (<a href="https://slides.com/sebastianhorl/eqasim-workshop-dec25#/19">Link</a>)</td>
     </tr>
     <tr>
         <td>IFP energies nouvelles</td>
@@ -70,7 +70,7 @@ Please <b><a href="https://framaforms.org/eqasim-workshop-2025-1758281587">regis
     </tr>
     <tr>
         <td>ETH Zurich</td>
-        <td>Advances on eqasim for Switzerland</td>
+        <td>Advances on eqasim for Switzerland (<a href="{{ site.baseurl }}/assets/files/eqasim_workshop_2025_ethz.pdf">Link</a>)</td>
     </tr>
     <tr>
         <th>12h00 - 13h00</th>
