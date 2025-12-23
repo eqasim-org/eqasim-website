@@ -86,7 +86,7 @@ Please <b>register for the workshop</b>, even if you participate remotely and sp
     </tr>
     <tr>
         <td>AirBreizh</td>
-        <td>The use of eqasim in air quality assessment</td>
+        <td>The use of eqasim in air quality assessment (<a href="{{ site.baseurl }}/assets/files/eqasim_workshop_2025_airbreizh.pdf">Link</a>)</td>
     </tr>
     <tr>
         <th>14h00 - end</th>
