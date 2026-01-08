@@ -7,6 +7,10 @@ nav: false
 
 <h2>The eqasim workshop 2025</h2>
 
+<div style="color: rgb(102, 77, 3); background-color: rgb(255, 243, 205); border: 1px solid rgb(255, 230, 156); border-radius: 5px; margin-bottom: 10px; margin-top: 10px; padding: 10px;">
+  The workshop has been a great success with over 60 registered participants (about 30 on site) from 20+ organizations in 10+ countries (<a href="{{ site.baseurl }}/assets/files/eqasim_workshop_2025_participation.pdf">participation statistics</a>). Thanks to everyone for participating and see you next year!
+</div>
+
 <table class="workshop-info" style="margin-bottom: 10px;">
     <tr>
         <td>When:</td>
