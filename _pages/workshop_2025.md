@@ -86,7 +86,7 @@ Please <b>register for the workshop</b>, even if you participate remotely and sp
     </tr>
     <tr>
         <td>EDF / SMACH</td>
-        <td>Synthetic populations for household energy consumption</td>
+        <td>Synthetic populations for household energy consumption (<a href="{{ site.baseurl }}/assets/files/eqasim_workshop_2025_edf.pptx">Link</a>)</td>
     </tr>
     <tr>
         <td>AirBreizh</td>
